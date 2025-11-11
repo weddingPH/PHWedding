@@ -55,8 +55,8 @@
             const loichuc = document.getElementById('loichuc');
             loichuc.classList.remove('deactive');
             loichuc.classList.add('active');
-            const btnSendMsg = document.getElementById('btnSendMsg');
-            btnSendMsg.disabled = true;
+            // const btnSendMsg = document.getElementById('btnSendMsg');
+            // btnSendMsg.disabled = true;
         });
     }
 
